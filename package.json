@@ -1,7 +1,7 @@
 {
-  "name": "vue-blog-cosmicjs",
+  "name": "simple-communications",
   "version": "1.0.1",
-  "description": "A simple blog app built using Vue & Vuex. It connects to the Cosmic JS CMS via API. You can manage your content from your Cosmic JS Dashboard.",
+  "description": "The goto app for the Ugandan diaspora.",
   "author": "Jazib Sawar <jazibsawar@gmail.com>",
   "private": true,
   "scripts": {

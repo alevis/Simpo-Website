@@ -2,7 +2,7 @@
   "bucket": {
     "_id": "5a3cf965339183383f00013a",
     "slug": "vue-blog-cosmicjs",
-    "title": "Vue Blog",
+    "title": "Simple Communications",
     "object_types": [
       {
         "title": "Authors",
@@ -60,8 +60,8 @@
       {
         "_id": "5a3cfa0d339183383f000156",
         "order": 0,
-        "slug": "waqas-arshad",
-        "title": "Waqas Arshad",
+        "slug": "kalule-richard",
+        "title": "Kalule Richard",
         "content": "",
         "metafields": [],
         "bucket": "5a3cf965339183383f00013a",
@@ -123,8 +123,8 @@
       {
         "_id": "5a3cf9fb339183383f000147",
         "order": 1,
-        "slug": "jazib-sawar",
-        "title": "Jazib Sawar",
+        "slug": "simple-nsereko",
+        "title": "Simple Nsereko",
         "content": "",
         "metafields": [],
         "bucket": "5a3cf965339183383f00013a",
@@ -142,9 +142,9 @@
       {
         "_id": "5a44e5b8016e2aed02000175",
         "order": 1,
-        "slug": "the-ultimate-revelation-of-success",
-        "title": "The Ultimate Revelation Of Success.",
-        "content": "<p>Donec ac sem mi. Cras viverra est magna, feugiat euismod nibh hendrerit ac. Sed in tempus nunc, sed sodales libero. Morbi aliquet nibh eget nisi pulvinar, eu malesuada urna pulvinar. Quisque laoreet hendrerit libero, vel imperdiet erat rhoncus non. Nullam arcu tortor, pulvinar non lacus eu, molestie faucibus metus. Aliquam tempus felis et enim faucibus, in posuere velit dignissim. Aliquam id tempus justo. Vestibulum fermentum massa vel felis dignissim, vel dignissim sem convallis. Phasellus rhoncus nisi sit amet tristique faucibus. Aenean a arcu quam. Pellentesque sed nunc laoreet, molestie orci dapibus, vehicula mauris. Aliquam nec efficitur lorem, vel varius quam. Aenean risus diam, egestas a luctus ac, rutrum vel elit. Praesent consequat urna augue. Vestibulum euismod, velit id elementum molestie, massa risus semper felis, in lobortis massa eros interdum eros.</p><p>Donec vitae pretium nibh, elementum aliquam metus. Suspendisse quis elit volutpat, pulvinar ligula et, posuere lacus. Nullam sit amet risus ac mi varius consectetur. Aliquam lectus mi, semper nec dui ac, semper lacinia velit. Aliquam elementum vestibulum vulputate. Nullam iaculis ipsum et urna iaculis, sed efficitur sapien condimentum. Pellentesque suscipit accumsan arcu, non pretium libero placerat at. Proin non tortor quis sapien sagittis consectetur. Duis nec pellentesque nisl. Aenean mi eros, fermentum sit amet ultrices non, rhoncus sed justo. Proin eu ornare odio. Cras rhoncus sapien ac vulputate imperdiet. Suspendisse interdum purus magna. Praesent euismod quam id massa scelerisque aliquam. Vivamus id libero at tortor porta tincidunt id et risus.</p><p>Ut vehicula accumsan erat, ut condimentum libero vulputate nec. Sed id lacus dolor. Vivamus eu lacus vel tortor lobortis euismod. Aenean in venenatis orci. Nunc in nisi et metus gravida porta auctor id nisi. Vestibulum lobortis efficitur enim vel pharetra. Aenean arcu nibh, maximus a elit quis, posuere convallis mi. Donec sed ornare lectus. Etiam porta consectetur congue.</p>",
+        "slug": "Our privacy policy",
+        "title": "Our privay policy.",
+        "content": "<p>Privacy Policy for Simple Communications At Simple Communications, accessible from https://simpo-communications.netlify.app/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Simple Communications and how we use it If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Log Files Simple Communications follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the Privacy Policy Generator.Privacy Policies You may consult this list to find the Privacy Policy for each of the advertising partners of Simple Communications. Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Simple Communications, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit. Note that Simple Communications has no access to or control over these cookies that are used by third-party advertisers. Third Party Privacy Policies Simple Communications's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. Children's Information Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. Simple Communications does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records. Online Privacy Policy Only This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Simple Communications. This policy is not applicable to any information collected offline or via channels other than this website. Consent By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>",
         "metafields": [
           {
             "required": true,

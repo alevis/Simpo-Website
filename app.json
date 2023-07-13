@@ -1,7 +1,7 @@
 {
-  "name": "Vue Blog",
-  "description": "A Vue Blog app using Cosmic JS",
+  "name": "Simple Communications",
+  "description": "The go to site for the Uganda diaspora",
   "repository": "https://github.com/cosmicjs/vue-blog-cosmicjs",
   "logo": "https://cosmicjs.com/images/logo.svg",
-  "keywords": ["vue", "blog"]
+  "keywords": ["simple", "communications", "blog"]
 }
